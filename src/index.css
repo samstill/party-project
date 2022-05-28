@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Gotham;
+  src: url("./assets/GothamBook.ttf");
+  font-weight: bold;
+}
+
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #145DA0;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+

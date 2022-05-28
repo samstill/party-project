@@ -1,0 +1,14 @@
+body {
+    font-weight: 600;
+    padding: 20px 40px;
+    background-color: #dee7f0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
